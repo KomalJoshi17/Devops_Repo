@@ -1,0 +1,19 @@
+/* This is a CSS comment */
+
+/* Selects all paragraph elements */
+p {
+  color: blue; /* Sets the text color to blue */
+  font-size: 16px; /* Sets the font size to 16 pixels */
+}
+
+/* Selects elements with the class "highlight" */
+.highlight {
+  background-color: yellow; /* Sets the background color to yellow */
+  padding: 10px; /* Adds 10 pixels of padding around the content */
+}
+
+/* Selects the element with the ID "main-heading" */
+#main-heading {
+  text-align: center; /* Centers the text */
+  border-bottom: 2px solid grey; /* Adds a grey bottom border */
+}
